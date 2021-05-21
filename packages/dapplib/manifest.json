@@ -1,0 +1,16 @@
+{
+    "name": "Fox metrics",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Jackle",
+        "/category/asset_value_tracking/token/symbol": "Jackle ",
+        "/category/asset_value_tracking/token/decimals": "10",
+        "/category/asset_value_tracking/token/supply": "1000000000"
+    }
+}
